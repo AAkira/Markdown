@@ -133,17 +133,15 @@
 
 * テーブルの線によって寄せが変わる  
 
- |指定なし|左寄せ|中央寄せ|右寄せ|  
- |--------|:-----|:------:|-----:|  
+ \|指定なし|左寄せ|中央寄せ|右寄せ|  
+ \|--------|:-----|:------:|-----:|  
 
- <div>
- |  hogehoge  |   foofoo    |    barbar    |  
- |:-----------|------------:|:------------:|  
- | hogehoge   | foo         |bar           |  
- | hoge       |      foo    |    bar       |  
- | hoge       |  foo        |          bar |  
- |      hoge  |          foo|           bar|  
- </div>
+ \|  hogehoge  |   foofoo    |    barbar    |  
+ \|:-----------|------------:|:------------:|  
+ \| hogehoge   | foo         |bar           |  
+ \| hoge       |      foo    |    bar       |  
+ \| hoge       |  foo        |          bar |  
+ \|      hoge  |          foo|           bar|  
 
 
  |  hogehoge  |   foofoo    |    barbar    |
