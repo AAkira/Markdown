@@ -123,6 +123,18 @@
  例)  
  `public static final String HOGE = "hogehoge"`
 
+* JSON形式  
+\```json [hoge] \```
+
+ 例)  
+```json
+[
+	{
+		id:1234  
+	}
+]```
+
+
 ## エスケープ
 
 * 記号は対象文字列前に\  
